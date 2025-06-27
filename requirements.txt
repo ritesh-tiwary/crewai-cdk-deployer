@@ -1,0 +1,4 @@
+crewai==0.134.0
+anthropic==0.55.0
+constructs==10.4.2
+aws-cdk-lib==2.202.0
