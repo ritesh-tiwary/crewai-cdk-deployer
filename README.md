@@ -39,7 +39,7 @@ This project uses a \*\*multi-agent AI system powered by \*\*[**CrewAI**](https:
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/your-org/crewai-cdk-deployer.git
+git clone https://github.com/ritesh-tiwary/crewai-cdk-deployer.git
 cd crewai-cdk-deployer
 pip install -r requirements.txt
 ```
