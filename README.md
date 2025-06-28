@@ -53,9 +53,10 @@ pip install -r requirements.txt
 ```
 
 ### 3. Setup Authentication Keys
+https://platform.openai.com/api-keys
 
 ```
-export OPENAI_API_KEY=sk-proj-xxx
+export OPENAI_API_KEY=sk-proj-xxxx
 ```
 
 ### 4. Run the AI Agent System
