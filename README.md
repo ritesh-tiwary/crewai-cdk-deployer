@@ -61,6 +61,11 @@ python main.py
 
 You'll be prompted to approve the deployment before it runs `cdk deploy`.
 
+### 4. Setup Authentication Keys
+
+```
+export OPENAI_API_KEY=sk-proj-xxx
+```
 ---
 
 ## ✅ Example Prompt
