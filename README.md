@@ -52,7 +52,13 @@ cdk init app --language python
 pip install -r requirements.txt
 ```
 
-### 3. Run the AI Agent System
+### 3. Setup Authentication Keys
+
+```
+export OPENAI_API_KEY=sk-proj-xxx
+```
+
+### 4. Run the AI Agent System
 
 ```bash
 cd ..
@@ -61,11 +67,6 @@ python main.py
 
 You'll be prompted to approve the deployment before it runs `cdk deploy`.
 
-### 4. Setup Authentication Keys
-
-```
-export OPENAI_API_KEY=sk-proj-xxx
-```
 ---
 
 ## ✅ Example Prompt
